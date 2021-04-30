@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#26aa09"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
@@ -192,6 +194,9 @@
             },
             "H2": {
               "text-align": "center"
+            },
+            "H5": {
+              "color": "#26aa09"
             }
           },
           "_name": "contacts2",
