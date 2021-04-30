@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
 .cid-rxDL4tUVKF {
   padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #cc2952;
 }
 .cid-rxDL4tUVKF .title {
   margin-bottom: 2rem;
@@ -729,6 +729,9 @@ section.lazy-placeholder:after {
 .cid-rxDL4tUVKF textarea.form-control {
   min-height: 188px;
 }
+.cid-rxDL4tUVKF LABEL {
+  color: #ffffff;
+}
 .cid-rxDP5AjjWv {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -744,12 +747,4 @@ section.lazy-placeholder:after {
 }
 .cid-rxDP5AjjWv H2 {
   text-align: center;
-}
-.cid-sw3ZKkO4bD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-sw3ZKkO4bD P {
-  color: #767676;
 }
